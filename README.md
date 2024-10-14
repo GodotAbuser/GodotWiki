@@ -4,8 +4,8 @@
 
 ***
 
-# [Subclasses](https://github.com/GodotAbuser/GodotWiki/wiki/Making-Subclasses)
+# [Nested Classes](https://github.com/GodotAbuser/GodotWiki/wiki/Making-Nested-Classes)
 
-**Beginners Guide to making Subclasses**
+**Beginners Guide to making Nested Classes**
 
 ***
